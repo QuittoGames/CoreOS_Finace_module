@@ -10,8 +10,8 @@ license = { text = "MIT" }
 requires-python = ">=3.8"
 
 [project.urls]
-"Homepage" = "https://github.com/teuuser/coreos-finance"
-"Repository" = "https://github.com/teuuser/coreos-finance"
+"Homepage" = "https://github.com/QuittoGames/CoreOS_Finace"
+"Repository" = "https://github.com/QuittoGames/CoreOS_Finace_module"
 
 [build-system]
 requires = ["setuptools>=61.0"]
