@@ -1,0 +1,18 @@
+[project]
+name = "coreos-finance"
+version = "0.1.0"
+description = "Módulo de funções financeiras do CoreOS"
+authors = [
+    { name="Quitto", email="gustavomoreiraquitto@gmail.com" }
+]
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.8"
+
+[project.urls]
+"Homepage" = "https://github.com/teuuser/coreos-finance"
+"Repository" = "https://github.com/teuuser/coreos-finance"
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
