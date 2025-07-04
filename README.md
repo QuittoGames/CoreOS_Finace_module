@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CoreOS Finance
 
 **CoreOS Finance** é um módulo de funções matemáticas financeiras desenvolvido para ser o **núcleo de cálculos financeiros** dentro do ecossistema **CoreOS** — um sistema modular e integrado para gerenciamento financeiro pessoal e corporativo.
@@ -55,3 +56,6 @@ print(f"Taxa anual equivalente: {taxa_anual:.4f}")
 taxa_mensal = CoreOSFinance.taxa_anual_para_mensal(0.1547)
 print(f"Taxa mensal equivalente: {taxa_mensal:.4f}")
 ```
+=======
+# CoreOS_Finace_module
+>>>>>>> 280e00919cb96df8a35e785e06923200a4db7ea3
