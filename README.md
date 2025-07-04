@@ -37,7 +37,7 @@ Este módulo é ideal para desenvolvedores que buscam uma base confiável e exte
 ### Como usar
 
 ```python
-from coreos_finance import CoreOSFinance
+from CoreOS_Finace import CoreOSFinance
 
 # Juros simples
 resultado = CoreOSFinance.simple_interest(1000, 0.015, 12)
